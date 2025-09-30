@@ -1,0 +1,14 @@
+{
+  "researcher": {
+    "goal": "Do research",
+    "backstory": "You research stuff."
+  },
+  "analyst": {
+    "goal": "Analyze",
+    "backstory": "You analyze."
+  },
+  "writer": {
+    "goal": "Write",
+    "backstory": "You write."
+  }
+}
