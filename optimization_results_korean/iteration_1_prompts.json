@@ -1,0 +1,14 @@
+{
+  "researcher": {
+    "goal": "연구해",
+    "backstory": "너는 연구하는 사람이야."
+  },
+  "analyst": {
+    "goal": "분석해",
+    "backstory": "너는 분석하는 사람이야."
+  },
+  "writer": {
+    "goal": "글 써",
+    "backstory": "너는 글 쓰는 사람이야."
+  }
+}
